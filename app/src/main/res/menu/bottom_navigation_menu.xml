@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_studymates"
+        android:icon="@drawable/ic_study_mate"
+        android:title="">
+
+    </item>
+
+    <item
+        android:id="@+id/ic_groups"
+        android:icon="@drawable/ic_groups"
+        android:title="">
+
+    </item>
+
+    <item
+        android:id="@+id/ic_messaging"
+        android:icon="@drawable/ic_chat"
+        android:title="">
+
+    </item>
+
+    <item
+        android:id="@+id/ic_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="">
+
+    </item>
+
+</menu>
